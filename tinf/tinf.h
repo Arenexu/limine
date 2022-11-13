@@ -1,4 +1,4 @@
-/*
+  /*
  * tinf - tiny inflate library (inflate, gzip, zlib)
  *
  * Copyright (c) 2003-2019 Joergen Ibsen
